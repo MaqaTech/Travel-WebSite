@@ -202,7 +202,7 @@
   font-weight: 500;
 }
 #section3 .bottom .card .card_content_date a {
-  color: #7EA0FF;
+  color: #7ea0ff;
   background: rgba(126, 160, 255, 0.05);
   font-size: 14px;
   display: inline-block;
@@ -270,12 +270,12 @@
 }
 
 p {
-  color: #7EA0FF;
+  color: #7ea0ff;
 }
 
 .p {
   margin-top: 20px;
-  color: #677F8B;
+  color: #677f8b;
 }
 
 #section5 {
@@ -320,7 +320,7 @@ p {
   margin-bottom: 5%;
 }
 .art p {
-  color: #7EA0FF;
+  color: #7ea0ff;
 }
 .art h1 {
   font-size: 60px;
@@ -476,7 +476,7 @@ p {
   margin-top: 7%;
 }
 #footer .footer_logo p {
-  color: #677F8B;
+  color: #677f8b;
   margin-bottom: 10%;
   margin-top: 7%;
   line-height: 30px;
@@ -505,7 +505,7 @@ p {
   color: #ffc800;
 }
 #footer .footer_text .footer_ul_li a {
-  color: #677F8B;
+  color: #677f8b;
   transition: all 0.5s;
 }
 #footer .footer_text .footer_ul_li a:hover {
